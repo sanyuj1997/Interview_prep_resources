@@ -1,0 +1,110 @@
+--------------------------------------Domain - Security Testing:---------------------------------------------
+
+Difference between Blind SQL Injection and SQL Injection
+Types of XSS -(DOM, Stored, Reflected)
+Difference between risk, vulnerability and threat
+Encryption Vs Hashing Vs Encoding
+What is Burpsuite?
+What are the different attacks that can be performed using Burpsuite?
+What are the different attacks that you have performed using Kali Linux?
+Is Wire shark a network monitoring tool?
+IDS vs IPS vs Firewall
+What is the role of secure attribute in a cookie?
+Cookie vs Sesion
+How does CSRF Attack works.
+Symmetric Vs Asymmetric Cryptography
+IPv4 Vs IPv6
+How can you mitigate SQL injection/ XSS/ CSRF attack
+How can you prevent web server attacks?
+List any 3 ways to prevent Brute Force Attacks.
+Explain Buffer Overflow.
+What is Heart Bleed Attack?
+IPv4 Packet Header Analysis
+Switch Vs Hub Vs Router
+HTTPS Vs HTTP
+What is the use of Salting in Hashing?
+What is the difference between an APT and Malware?
+What are the different types of malware?
+Virus Vs Worm
+What is the difference between VA and PT?
+What is the difference between payload and exploit?
+What do you understand by Auxiliary modules in Metasploit?
+What is the role of AD in network Security?
+What are the different network layer attacks?
+What do you understand by DHCP spoofing? How does DHCP work?
+Public IP vs Private IP
+Black list Validation Vs White List Validation
+What is the role of Netcat in reverse shell?
+How can you perform a DDOS attack ?
+Explain how information travels in a network(Make sure you involve each layer of OSI Model while answering)
+What do you understand by Fuzzing?
+Explain different phases of Hacking in detail.
+What do you understand by session hijacking? How can it be prevented?
+What is click-jacking?
+Explain MITM attack.
+What is the role of DMZ in network security?
+What is replay attack in network security? In simple terms, what is the difference between wiretapping and replay attacks in network security?
+For testing, I would advise you to study OWASP TOP 10 for Web App Security thoroughly. Besides clear understanding of networking is required to ace the interview.
+
+Important Tools: Burpsuite, nmap, netcat, Armitage, sqlmap , metasploit, nessus and wireshark.
+
+-----------------------------------------------------------Security Audit-----------------------------------------------------------
+
+Difference between risk, vulnerability and threat
+What is Exception Management? (Flow Diagram)
+What is Change Management?(Flow Diagram)
+Role of disruptive tech in the future of Audit?
+What is the role of PCI DSS in payment card Industry?
+What are QSAs in PCI DSS?
+What do you understand by Non Conformity?
+What are the 10 things that you must look during Server Security Audit?
+What are the 10 things that you must look during Physical Security Audit?
+What do you understand by Incident Management?(Flow diagram)
+What are the security implications of EU GDPR? What are the security and privacy implications of the EU GDPR?
+Does India have a privacy Law?
+What do you know about IT Act ? What are the recent amendments made in IT ACT? Can you update me with cyber laws in India? Do all countries have different cyber laws?
+What are the factors that can result in data leakage?
+What do you understand by Ransomware? Explain its impact on an organisation in terms of regulatory, operational and financial losses.
+Preventive Vs Detective Vs Corrective controls
+What do you understand by residual risk?
+What do you understand by Identity Access Management System?
+How can you protect data at rest and data in motion?
+What do you understand by ISMS?
+Excel Skills- V lookup, Pivoting, H lookup, Data Vizualisation and automation through Macros.
+Security Vs Privacy
+What is the difference between Business Continuity and Disaster Recovery?
+False Positive Vs False Negative
+Define Governance. Also explain difference between Governance and Management.
+Explain chain of custody.
+What is the importance of Audit trails?
+Explain SOA
+Explain different Risk treatment techniques.
+What are the different threats and vulnerabilities that you can map with Physical Security/Server Security/Network Security
+RTO Vs RPO(BCP & DR)
+Information Technology Vs Information Systems
+What are the different phases of Business Continuity?
+What do you understand by BIA?
+Standard vs policy vs procedure vs guidelines
+What do you understand by AAA?
+Difference between authorization and authentication with example.
+For this profile, candidate must have crystal clear understanding about ISMS and its implementation.
+
+Good Speaking skills and confidence will certainly give you an edge.
+
+--------------------------------------------------General Questions:-------------------------------------------------------------
+
+How does Google work?
+What do you understand by VLan Security?
+How block chain can be used to enhance cyber security of an organisation?
+How can you provide secure access to remote users?
+IPsec vs VPN
+What is the role of Captcha in Web Application Security?
+How do you keep yourself updated with the information security news?
+Explain Spectre and Meltdown
+Explain what is the 80/20 rule of networking?
+What is the difference between Cyber Security and Information Security?
+Do you think phishing is over rated?
+What do you understand by BYOD?
+What do you understand by DNS? How does it work?
+How does Proxy work?
+Difference between phishing and spear phishing.
