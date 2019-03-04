@@ -2,3 +2,38 @@ mostly all aptitude tests that have a technical round will have some variation o
 you can't get away without practice or some sort of experience. 
 Here are some freely available samples that i think teach you something, it is important to know that you must know other data structures
 as well and all the common sorting and searching algorithms;
+ref:https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html
+
+1. How to find the missing number in integer array of 1 to 100? 
+One trick to solve this problem is to calculate sum of all numbers in the array and
+compare with expected sum, the difference would be the missing number.
+2. How to find duplicate number on Integer array in Java?
+ you can apply the same trick of comparing actual sum of an array to expected sum of
+ series to find out that duplicate. This is generally asked as follow-up question of previous problem.
+ Linkedhashset and Set
+ 
+ 3. How to check if array contains a number in Java?
+The complexity of binary search is O(logN). BTW, if interviewer says that array is not sorted then you can still sort 
+and perform binary search otherwise you can use sequential search. Time complexity of sequential search in array is O(n).
+4. How to find largest and smallest number in unsorted array?
+5. How to find all pairs on integer array whose sum is equal to given number?
+import java.util.HashSet;
+import java.util.Set;
+if(numbers.length < 2){
+            return;
+        }        
+        Set set = new HashSet(numbers.length);
+        
+        for(int value : numbers){
+            int target = n - value;
+            
+            // if target number is not in set then add
+            if(!set.contains(target)){
+                set.add(value);
+            }else {
+                System.out.printf("(%d, %d) %n", value, target);
+            }
+        }
+    }
+    
+    /*
